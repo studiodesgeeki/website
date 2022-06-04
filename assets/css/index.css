@@ -20,16 +20,21 @@
     margin-bottom: 80px;
     height: 150px;
 }
+}
+.gmlmc {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    height: 100px;
+}
+.tawth {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    height: 150px;
+}
 
 p{
     color: rgb(0, 0, 0);
     font-size: 35px;
     font-family: nexa;
     text-align: center;
-}
-p 1{
-    color: rgb(0, 0, 0);
-    font-size: 25px;
-    font-family: nexa;
-    text-align: :left;
 }
